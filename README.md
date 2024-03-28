@@ -37,14 +37,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-![Snake animation](https://github.com/JugBones/JugBones/blob/output/github-contribution-grid-snake.svg)
-  
-  <br/><br/>
-</div>
 
 <hr/>
 
