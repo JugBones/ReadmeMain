@@ -41,6 +41,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
+![snake gif](https://github.com/JugBones/JugBones/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
@@ -57,6 +58,3 @@
 <hr/>
 
 <br/>
-
-
-![snake gif](https://github.com/JugBones/JugBones/blob/output/github-contribution-grid-snake.gif)
