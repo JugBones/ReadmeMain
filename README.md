@@ -40,7 +40,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    ![Alt text](https://github.com/JugBones/JugBones/blob/main/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JugBones/JugBones/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 </div>
