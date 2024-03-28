@@ -43,7 +43,7 @@
 
 ![snake gif](https://github.com/JugBones/JugBones/blob/output/github-contribution-grid-snake.gif)
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
